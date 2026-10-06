@@ -1,6 +1,4 @@
-git remote add origin https://github.com/feduk36/feduk.git
-git branch -M main
-git push -u origin main\
+
 print("Фрагмент А")
 first = "2"
 second = "3"
